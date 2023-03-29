@@ -55,7 +55,7 @@ class SatSetting extends Component {
             min={-90}
             max={90}
             style={{ width: '100%' }}
-            placeholder="Please input Longitude"
+            placeholder="Please input Latitude"
           />
         </Form.Item>
 
@@ -73,7 +73,7 @@ class SatSetting extends Component {
             min={-413}
             max={8850}
             style={{ width: '100%' }}
-            placeholder="Please input Longitude"
+            placeholder="Please input Elevation"
           />
         </Form.Item>
 
@@ -91,7 +91,7 @@ class SatSetting extends Component {
             min={0}
             max={90}
             style={{ width: '100%' }}
-            placeholder="Please input Longitude"
+            placeholder="Please input Altitude"
           />
         </Form.Item>
 
@@ -109,7 +109,7 @@ class SatSetting extends Component {
             min={0}
             max={90}
             style={{ width: '100%' }}
-            placeholder="Please input Longitude"
+            placeholder="Please input Duration"
           />
         </Form.Item>
 
